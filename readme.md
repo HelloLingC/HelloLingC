@@ -1,3 +1,3 @@
 # LingC
 
-![](https://counter.moonlab.top/counter/img?id=https://github.com/HelloLingC)
+![](https://counter.moonlab.top/img/query?name=https://github.com/HelloLingC/HelloLingC/)
