@@ -1,13 +1,5 @@
 ## LingC
 
-### Currently
-
-- Learning systems programming in C and Rust
-
-### Writing
-
-I write some learing notes from time to time
-
 Blog: [lycois.org](https://lycois.org)
 
 ### Tech stack
