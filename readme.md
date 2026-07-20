@@ -11,6 +11,7 @@ Blog: [lycois.org](https://lycois.org)
   />
 </p>
 
-### Contact
+### Current Interests
 
-Email: lingc@lycois.org
+- Systems programming
+- Systematic Sleeping with my fish
