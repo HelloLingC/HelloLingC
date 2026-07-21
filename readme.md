@@ -11,6 +11,8 @@ Blog: [lycois.org](https://lycois.org)
   />
 </p>
 
+<figure><embed src="https://wakatime.com/share/@e8b1606a-2f34-4209-b2f6-c1da744379c7/cc1b9438-4694-47d8-908f-5e0091d87290.svg"></embed></figure>
+
 ### Current Interests
 
 - Systems programming
